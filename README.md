@@ -82,16 +82,16 @@ These row counts confirm that:
   → Complete Python code for schema creation, data generation, and validation  
 - **Restaurant_Food_Ordering_System_UberEats.db**  
   → Final SQLite database with fully populated tables  
-- **screenshots/** *(optional)*  
+- **screenshots**   
   → Screenshots from DB Browser for SQLite (table previews, row counts, queries)  
 - **README.md**  
   → Project documentation (this file)
 
 ---
 
-##  Appendix (Optional)
+##  Appendix 
 
-A separate screenshots/ folder may contain:
+A separate screenshots:
 - Database structure view  
 - Sample data previews  
 - SQL query outputs  
